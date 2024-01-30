@@ -1,0 +1,50 @@
+.header {
+    position: sticky;
+    top: 0;
+    height: 6vh;
+    padding-inline: 6rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: var(--secondary-color);
+    z-index: 1;
+
+    .logo {
+        display: flex;
+        align-items: center;
+        font-size: 1.7rem;
+        font-family: var(--font-family-logo);
+        color: var(--text-color-logo);
+    }
+
+    .logo img {
+        width: 1.6rem;
+        margin-right: 0.4rem;
+        margin-bottom: 0.4rem;
+        opacity: 0.85;
+    }
+
+    .nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        color: var(--text-color);
+    }
+
+    .nav a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.3rem;
+        color: var(--text-color);
+        font-size: 1.25rem;
+    }
+
+    .nav i {
+        font-size: 0.95rem;
+        margin-left: 0.3rem;
+    }
+}
