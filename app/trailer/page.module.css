@@ -31,6 +31,13 @@
 }
 
 /* ===== Responsividade =====*/
+
+@media (max-width: 1150px) {
+    .section iframe {
+        height: 60vw;
+    }
+}
+
 @media (max-width: 320px) {
     .main {
         margin: 0 auto;

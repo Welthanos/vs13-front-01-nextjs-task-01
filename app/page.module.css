@@ -10,6 +10,11 @@
   margin: 0.5rem 0;
 }
 
+.main p {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
 .section {
   width: 100%;
   border-bottom: #b8b8b8 solid 2px;
@@ -30,11 +35,6 @@
 .section img:hover {
   opacity: 0.8;
   transition: opacity 2s;
-}
-
-.section p {
-  font-size: 1.2rem;
-  font-weight: 500;
 }
 
 .section a {

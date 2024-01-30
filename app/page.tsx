@@ -37,7 +37,7 @@ export default function Home() {
             levado a um universo repleto de rivalidades ferozes e confrontos épicos, oferecendo uma experiência
             emocionante para os amantes de anime e fãs de ação.
           </p>
-          <a href="pages/trailer/trailer.html#baki">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
+          <a href="/trailer#baki">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
         </section>
 
         <section className={styles.section}>
@@ -54,7 +54,7 @@ export default function Home() {
             espectadores com sua originalidade, ação intensa e uma trilha sonora marcante. Uma obra que
             transcende gerações, o anime se destaca como um clássico moderno do gênero de aventura e fantasia.
           </p>
-          <a href="pages/trailer/trailer.html#jojo">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
+          <a href="/trailer#jojo">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
         </section>
 
         <section className={styles.section}>
@@ -73,7 +73,7 @@ export default function Home() {
             intensa, desenvolvimento de personagens profundo e uma narrativa emocional, Naruto tornou-se um
             ícone do anime, atraindo uma base de fãs global e deixando um legado duradouro na cultura pop.
           </p>
-          <a href="pages/trailer/trailer.html#naruto">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
+          <a href="/trailer#naruto">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
         </section>
 
         <section className={styles.section}>
@@ -93,7 +93,7 @@ export default function Home() {
             Com animação vibrante, sequências de luta emocionantes e personagens cativantes, Jujutsu Kaisen
             conquistou fãs ao redor do mundo, tornando-se um destaque no universo dos animes contemporâneos.
           </p>
-          <a href="pages/trailer/trailer.html#jujutsu">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
+          <a href="/trailer#jujutsu">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
         </section>
 
         <section className={`${styles.section} ${styles.last}`}>
@@ -111,7 +111,7 @@ export default function Home() {
             personagens cativantes e uma trilha sonora emocional, Shingeki no Kyojin se destaca como um épico
             que desafia as expectativas do gênero.
           </p>
-          <a href="pages/trailer/trailer.html#shingeki">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
+          <a href="/trailer#shingeki">Ver trailer <i className="fa-solid fa-arrow-right"></i></a>
         </section>
       </main>
     </>
